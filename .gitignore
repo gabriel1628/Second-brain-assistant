@@ -188,3 +188,6 @@ faiss/
 langflow_poc/
 data/
 .gradio/
+
+# todo
+TODO.*
